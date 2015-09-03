@@ -698,6 +698,7 @@ h2 {
 
 #registration {
 padding-top:40px;
+padding-bottom:20px;
 }
 
 #contact-section .form-control {
@@ -773,6 +774,11 @@ padding-top:40px;
 }
 
 .talktitle {
-  color: #00FFD8;
+  color: #4ca6ff;
   font-size: 24px !important; 
+}
+
+.description {
+  color: #FFFFFF;
+  font-size: 18px !important; 
 }
