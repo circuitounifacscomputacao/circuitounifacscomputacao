@@ -1,0 +1,14 @@
+.tooltipster-punk {
+	border-radius: 5px; 
+	border-bottom: 5px solid #FFFC13;
+	background: #1B7B98;
+	color: white;
+    font-weight: 800;
+    ;
+}
+.tooltipster-punk .tooltipster-content {
+	font-family: 'Lato', monospace;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 8px 15px;
+}
