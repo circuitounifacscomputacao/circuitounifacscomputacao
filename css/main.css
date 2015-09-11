@@ -759,7 +759,7 @@ padding-bottom:20px;
 }
 
 #footer a {
-  color:#f7ab24
+  color:#22D1EE
 }
 
 #footer a:hover {
@@ -777,12 +777,19 @@ padding-bottom:20px;
 }
 
 .talktitle {
-  color: #4ca6ff;
+  color: #22D1EE;
   font-size: 24px !important; 
 }
 
+.talktime {
+  color: #eff9f;
+  font-size: 20px !important; 
+  font-family: 'Lato', sans-serif !important;
+
+}
+
 .description {
-  color: #FFFFFF;
+  color: #E2F3F5;
   font-size: 14px !important;
   font-family: 'Lato', sans-serif !important;
   text-transform: none !important;
